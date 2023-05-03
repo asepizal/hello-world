@@ -6,3 +6,5 @@ edit in github
 
 
 edit readme and push to github 
+
+edit in branch local after pull in github
