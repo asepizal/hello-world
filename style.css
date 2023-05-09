@@ -10,3 +10,7 @@ margin-left: 20px;
 p{
     font-style: italic;
 }
+
+html{
+    margin: 0
+}
